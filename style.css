@@ -47,9 +47,9 @@ hr {
     font-weight: bold;
     padding-top: 0.4vh;
     padding-bottom: 0.4vh;
-    padding-left: 1vw;
-    padding-right: 1vw;
-    vertical-align:middle;
+    padding-left: 1.1vw;
+    padding-right: 1.1vw;
+    vertical-align: middle;
 }
 
 .number {
